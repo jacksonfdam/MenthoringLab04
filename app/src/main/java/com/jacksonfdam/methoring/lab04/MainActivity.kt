@@ -1,14 +1,13 @@
-package com.jacksonfdam.methoring.lab03
+package com.jacksonfdam.methoring.lab04
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.jacksonfdam.methoring.lab03.MainActivity.Companion.HELLO
-import com.jacksonfdam.methoring.lab03.MainActivity.Companion.LOVE
-import com.jacksonfdam.methoring.lab03.databinding.ActivityMainBinding
+import com.jacksonfdam.methoring.lab04.MainActivity.Companion.HELLO
+import com.jacksonfdam.methoring.lab04.MainActivity.Companion.LOVE
+import com.jacksonfdam.methoring.lab04.databinding.ActivityMainBinding
 import dagger.Component
 import dagger.Module
 import dagger.Provides
-import kotlinx.android.synthetic.main.activity_main.view.*
 import javax.inject.Inject
 import javax.inject.Qualifier
 

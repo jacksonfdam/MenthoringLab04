@@ -1,4 +1,4 @@
-package com.jacksonfdam.methoring.lab03
+package com.jacksonfdam.methoring.lab04
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.jacksonfdam.methoring.lab03", appContext.packageName)
+        assertEquals("com.jacksonfdam.methoring.lab04", appContext.packageName)
     }
 }

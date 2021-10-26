@@ -1,4 +1,4 @@
-package com.jacksonfdam.methoring.lab03
+package com.jacksonfdam.methoring.lab04
 
 import org.junit.Test
 
